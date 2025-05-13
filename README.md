@@ -11,7 +11,7 @@ The notebook walks through cleaning, analyzing, and visualizing the data to unco
 - Popular product categories by rating count
 - Sentiment analysis of customer reviews
 - Visualizations using Seaborn and Matplotlib
-- Data Insights and comments on what is useful
+- **Data Insights and comments on what is useful** ==> `VIP`
 
 ---
 
